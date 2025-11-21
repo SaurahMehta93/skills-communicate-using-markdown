@@ -4,7 +4,7 @@
 # Step 2: Add Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-# Step 3: Add a code example
+# Stel 3: Add a code example
 
 Example 1
 ```
@@ -13,6 +13,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 Example 2
-``` javascript
+```javascript
 var myVar = "Hello, world!";
 ```
