@@ -1,18 +1,26 @@
 # Step 1: Add Header
-## Header
+### Header
 
 # Step 2: Add Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-# Stel 3: Add a code example
+# Step 3: Add a code example
 
-Example 1
+###### Example 1
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-Example 2
+###### Example 2
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+
+# Setp 4: Make a task list
+
+###### Task List
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
